@@ -1279,6 +1279,7 @@ figcaption {
 }
 
 ._w-form {
+	visibility: hidden;
   min-height: 400px;
 }
 
